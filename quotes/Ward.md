@@ -1,0 +1,1 @@
+My specific purpose for the first wiki was to create an environment where we might link together each other's experience to discover the pattern language of programming.
