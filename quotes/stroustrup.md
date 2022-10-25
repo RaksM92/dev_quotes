@@ -1,0 +1,2 @@
+People who think they know everything really annoy those of us who know we don't.
+If you think it's simple, then you have misunderstood the problem.
