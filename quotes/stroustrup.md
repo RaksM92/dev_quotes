@@ -1,0 +1,2 @@
+I'm convinced that you could design a language about a tenth of the size of C++ (whichever way you measure size) providing roughly what C++ does.
+Within C++, there is a much smaller and cleaner language struggling to get out
