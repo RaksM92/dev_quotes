@@ -11,4 +11,10 @@ details.
 All quotes are sourced from https://en.wikiquote.org
 
 The names:
-Alan Kay, Kent, Larry, Linus, Martin, Ward
+Alan Kay, 
+Kent, 
+Larry, 
+Linus, 
+Martin, 
+Ward,
+Stroustrup
